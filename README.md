@@ -28,7 +28,7 @@ Heroku: https://labalumen.herokuapp.com/<br>
 Git: https://github.com/AnastasiyaHahanova/lumen<br>
 
 <b>PHP Задание Визуализация</b><br>
-Heroku: https://labasilex.herokuapp.com/<br>
+Heroku: https://stolbiki.herokuapp.com/<br>
 Git: https://github.com/AnastasiyaHahanova/stolbiki<br>
 
 <b>PHP Задание Mongo/PHP</b><br>
