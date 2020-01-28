@@ -1,6 +1,6 @@
 # itmo_2020
 <b>API </b><br>
-Heroku: https://ifmoblog.herokuapp.com/<br>
+Heroku: http://ifmoblog.herokuapp.com/api/posts/list/<br>
 Git:    https://github.com/AnastasiyaHahanova/ifmoblog<br>
 
 <b>Бот DialogFlow BotN Book</b><br>
